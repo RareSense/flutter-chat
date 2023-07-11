@@ -1,0 +1,1 @@
+typedef ShowImageCallback = void Function(dynamic image);
